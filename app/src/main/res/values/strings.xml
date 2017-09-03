@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The_automated_workplace_of_the_doctor_ambulance</string>
+    <string name="title_activity_upgrade">UpgradeActivity</string>
+    <string name="title_activity_user_information">UserInformationActivity</string>
+</resources>
